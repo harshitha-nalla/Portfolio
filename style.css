@@ -216,8 +216,11 @@ nav .fa-solid {
     }
     nav  .fa-solid{
         display: block;
+        position: fixed; 
+        top: 10px;
+        right: 10px;
         font-size: 25px;
-	cursor: pointer;
+	       cursor: pointer;
     }
     nav ul{
         background:#ff004f;
